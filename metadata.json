@@ -1,0 +1,6 @@
+{
+  "name": "CampusCivic Agent",
+  "description": "An advanced AI coordinator for Punjab Engineering College (PEC) and Chandigarh, assisting students and citizens with lodging municipal and campus complaints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
